@@ -11,13 +11,14 @@
             "id": "c4878b3276366643",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "Obsidian配置要求.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Obsidian配置要求"
             }
           },
           {
@@ -61,8 +62,7 @@
               "title": "git的改名，github上改了仓库名，但本地文件不改名"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2a12686857d68b71",
@@ -237,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29b0a46356043064",
+  "active": "c4878b3276366643",
   "lastOpenFiles": [
-    "Obsidian配置要求.md",
+    "未命名.base",
     "git的改名，github上改了仓库名，但本地文件不改名.md",
+    "Obsidian配置要求.md",
     "assets/Obsidian配置要求/file-20251207174940871.png",
     "assets/Obsidian配置要求/file-20251207174907780.png",
     "assets/Obsidian配置要求",
@@ -250,7 +250,6 @@
     "未命名 1.base",
     "Excalidraw/Drawing 2025-12-07 17.18.34.excalidraw.md",
     "Excalidraw/Drawing 2025-12-07 17.18.40.excalidraw.md",
-    "未命名.base",
     "Pasted image 20251207171655.png",
     "Untitled.base",
     "Untitled.canvas",
