@@ -1,5 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-custom-attachment-location"
 ]

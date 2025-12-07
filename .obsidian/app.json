@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
