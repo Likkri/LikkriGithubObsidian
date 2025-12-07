@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "836e118bc2bf877a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
             "id": "c24b771e7a8f6ccb",
             "type": "leaf",
             "state": {
@@ -77,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,12 +264,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b0ffe2ee8d576c2",
+  "active": "836e118bc2bf877a",
   "lastOpenFiles": [
+    "git的改名，github上改了仓库名，但本地文件不改名.md",
+    "未命名.md",
     "测试3.md",
     "Obsidian配置要求.md",
     "未命名.base",
-    "git的改名，github上改了仓库名，但本地文件不改名.md",
     "assets/Obsidian配置要求/file-20251207174940871.png",
     "assets/Obsidian配置要求/file-20251207174907780.png",
     "assets/Obsidian配置要求",
