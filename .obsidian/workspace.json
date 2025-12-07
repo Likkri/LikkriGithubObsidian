@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "为什么苹果手机同步不了？.md",
+                "file": "牛，改了git bash里我名字的http的fetch和pull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么苹果手机同步不了？"
+              "title": "牛，改了git bash里我名字的http的fetch和pull"
             }
           },
           {
@@ -266,8 +266,8 @@
   },
   "active": "836e118bc2bf877a",
   "lastOpenFiles": [
-    "测试3.md",
     "为什么苹果手机同步不了？.md",
+    "牛，改了git bash里我名字的http的fetch和pull.md",
     "git的改名，github上改了仓库名，但本地文件不改名.md",
     "Obsidian配置要求.md",
     "未命名.base",
