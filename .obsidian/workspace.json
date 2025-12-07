@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "为什么苹果手机同步不了？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "为什么苹果手机同步不了？"
             }
           },
           {
@@ -266,9 +266,9 @@
   },
   "active": "836e118bc2bf877a",
   "lastOpenFiles": [
-    "git的改名，github上改了仓库名，但本地文件不改名.md",
-    "未命名.md",
     "测试3.md",
+    "为什么苹果手机同步不了？.md",
+    "git的改名，github上改了仓库名，但本地文件不改名.md",
     "Obsidian配置要求.md",
     "未命名.base",
     "assets/Obsidian配置要求/file-20251207174940871.png",
