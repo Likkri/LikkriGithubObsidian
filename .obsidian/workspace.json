@@ -24,12 +24,14 @@
             "id": "c24b771e7a8f6ccb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-12-07 17.18.34.excalidraw.md"
+                "file": "2025-12-07.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-07 17.18.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-12-07"
             }
           }
         ],
@@ -208,15 +210,15 @@
   },
   "active": "c24b771e7a8f6ccb",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-07 17.18.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-07 17.18.40.excalidraw.md",
+    "2025-12-07.md",
+    "未命名.base",
+    "Pasted image 20251207171655.png",
+    "Untitled.base",
     "Untitled.canvas",
     "Untitled.md",
-    "Untitled.base",
-    "Excalidraw/Drawing 2025-12-07 17.18.40.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-07 17.18.34.excalidraw.md",
-    "未命名.base",
     "Excalidraw",
-    "2025-12-07.md",
-    "Pasted image 20251207171655.png",
     "新建文本文档.txt"
   ]
 }
