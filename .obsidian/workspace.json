@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian配置要求.md",
+                "file": "Test/Obsidian配置要求.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,14 +39,12 @@
             "id": "836e118bc2bf877a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "牛，改了git bash里我名字的http的fetch和push链接.md",
-                "mode": "source",
-                "source": false
+                "file": "Test/Pasted image 20251207171655.png"
               },
-              "icon": "lucide-file",
-              "title": "牛，改了git bash里我名字的http的fetch和push链接"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251207171655"
             }
           },
           {
@@ -89,9 +87,23 @@
               "icon": "lucide-file",
               "title": "git的改名，github上改了仓库名，但本地文件不改名"
             }
+          },
+          {
+            "id": "a00560dfa9523d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251209.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20251209"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-12-07.md",
+                "file": "20251209.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-07"
+              "title": "20251209 的反向链接列表"
             }
           },
           {
@@ -183,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-12-07.md",
+                "file": "20251209.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-07"
+              "title": "20251209 的出链列表"
             }
           },
           {
@@ -226,12 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20251209.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "20251209 的大纲"
             }
           },
           {
@@ -264,27 +277,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24dbe75f37086e67",
+  "active": "09d545da5be18a6b",
   "lastOpenFiles": [
-    "为什么苹果手机同步不了？.md",
-    "牛，改了git bash里我名字的http的fetch和push链接.md",
-    "git的改名，github上改了仓库名，但本地文件不改名.md",
-    "Obsidian配置要求.md",
-    "未命名.base",
-    "assets/Obsidian配置要求/file-20251207174940871.png",
-    "assets/Obsidian配置要求/file-20251207174907780.png",
+    "20251209.md",
+    "Test/Pasted image 20251207171655.png",
+    "Daily",
+    "Test/assets/Obsidian配置要求",
+    "Test/assets",
+    "Test/测试2.md",
+    "Test/牛，改了git bash里我名字的http的fetch和push链接.md",
+    "Test",
+    "Test/Obsidian配置要求.md",
+    "Test/为什么苹果手机同步不了？.md",
+    "Test/git的改名，github上改了仓库名，但本地文件不改名.md",
+    "Test/未命名.base",
+    "Test/assets/Obsidian配置要求/file-20251209141031733.png",
+    "Test/assets/Obsidian配置要求/file-20251209141031741.png",
     "assets/Obsidian配置要求",
     "assets",
-    "测试.md",
-    "测试2.md",
-    "未命名 1.base",
+    "Test/测试.md",
+    "Test/未命名 1.base",
     "Excalidraw/Drawing 2025-12-07 17.18.34.excalidraw.md",
     "Excalidraw/Drawing 2025-12-07 17.18.40.excalidraw.md",
-    "Pasted image 20251207171655.png",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled.md",
-    "Excalidraw",
-    "新建文本文档.txt"
+    "Excalidraw"
   ]
 }
