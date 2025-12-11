@@ -94,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20251209.md",
+                "file": "Test/Obsidian配置要求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20251209"
+              "title": "Obsidian配置要求"
             }
           }
         ],
@@ -238,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20251209.md",
+                "file": "Test/Obsidian配置要求.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20251209 的大纲"
+              "title": "Obsidian配置要求 的大纲"
             }
           },
           {
@@ -258,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -277,17 +277,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09d545da5be18a6b",
+  "active": "a00560dfa9523d25",
   "lastOpenFiles": [
-    "20251209.md",
     "Test/Pasted image 20251207171655.png",
+    "Test/Obsidian配置要求.md",
+    "20251209.md",
     "Daily",
     "Test/assets/Obsidian配置要求",
     "Test/assets",
     "Test/测试2.md",
     "Test/牛，改了git bash里我名字的http的fetch和push链接.md",
     "Test",
-    "Test/Obsidian配置要求.md",
     "Test/为什么苹果手机同步不了？.md",
     "Test/git的改名，github上改了仓库名，但本地文件不改名.md",
     "Test/未命名.base",
