@@ -97,10 +97,14 @@
             "id": "e3b438f19445d936",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/Syncthing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Syncthing"
             }
           }
         ]
@@ -278,12 +282,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bf6a70229b870d1",
+  "active": "49362584a32820bd",
   "lastOpenFiles": [
-    "Daily/().md",
-    "Daily/Syncthing.md",
-    "Daily/Obsidian配置要求.md",
     "Daily/总路线.md",
+    "Daily/Syncthing.md",
+    "Daily/().md",
+    "Daily/Obsidian配置要求.md",
     "Daily/目录.base",
     "Daily/未命名.md",
     "Daily/2025年12月25日 煤磨检查.md",
