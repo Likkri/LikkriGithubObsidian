@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2025年12月25日 煤磨检查.md",
+                "file": "Daily/Syncthing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2025年12月25日 煤磨检查 的关系图"
+              "title": "Syncthing 的关系图"
             }
           },
           {
@@ -106,8 +106,23 @@
               "icon": "lucide-file",
               "title": "2025年12月25日 煤磨检查"
             }
+          },
+          {
+            "id": "89ec57b5c0f7fb48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-04"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,31 +257,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "Daily/Syncthing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
-            "id": "24dbe75f37086e67",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Syncthing 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,22 +283,23 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e3b438f19445d936",
+  "active": "49362584a32820bd",
   "lastOpenFiles": [
+    "Daily/2025-12-26.md",
+    "Daily/Syncthing.md",
+    "Daily/2026-01-04.md",
+    "Excalidraw/Drawing 2026-01-04 14.10.59.excalidraw.md",
+    "Daily/2025年12月25日 煤磨检查.md",
     "小米14测试.md",
     "Daily/2026-01-02.md",
-    "Daily/Syncthing.md",
     "Daily/总路线.md",
     "Daily/().md",
     "Daily/Obsidian配置要求.md",
     "Daily/目录.base",
     "Daily/未命名.md",
-    "Daily/2025年12月25日 煤磨检查.md",
-    "Daily/2025-12-26.md",
     "Daily/安卓、苹果手机、移动客户端如何看同步github文件实现多端互通.md",
     "华润工作",
     "如何查看Obsidian文件的反向链接.md",
