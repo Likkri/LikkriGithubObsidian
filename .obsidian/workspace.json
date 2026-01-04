@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2026-01-04.md",
+                "file": "Daily/2025年12月25日 煤磨检查.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-01-04 的关系图"
+              "title": "2025年12月25日 煤磨检查 的关系图"
             }
           },
           {
@@ -121,8 +121,7 @@
               "title": "2026-01-04"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-01-04.md",
+                "file": "Daily/2025年12月25日 煤磨检查.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-04 的大纲"
+              "title": "2025年12月25日 煤磨检查 的大纲"
             }
           },
           {
@@ -296,11 +295,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bf6a70229b870d1",
+  "active": "e3b438f19445d936",
   "lastOpenFiles": [
+    "Daily/2026-01-04.md",
     "Daily/Syncthing.md",
     "Daily/2025-12-26.md",
-    "Daily/2026-01-04.md",
     "Excalidraw/Drawing 2026-01-04 14.10.59.excalidraw.md",
     "Daily/2025年12月25日 煤磨检查.md",
     "小米14测试.md",
