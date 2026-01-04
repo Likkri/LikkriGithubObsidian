@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-02.md",
+                "file": "Daily/2025年12月25日 煤磨检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-02"
+              "title": "2025年12月25日 煤磨检查"
             }
           }
         ]
@@ -283,8 +283,8 @@
   },
   "active": "e3b438f19445d936",
   "lastOpenFiles": [
-    "Daily/Syncthing.md",
     "Daily/2026-01-02.md",
+    "Daily/Syncthing.md",
     "Daily/总路线.md",
     "Daily/().md",
     "Daily/Obsidian配置要求.md",
