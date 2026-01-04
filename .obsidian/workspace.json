@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/Syncthing.md",
+                "file": "Daily/2026-01-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Syncthing 的关系图"
+              "title": "2026-01-04 的关系图"
             }
           },
           {
@@ -257,22 +257,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Syncthing.md",
+                "file": "Daily/2026-01-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Syncthing 的大纲"
+              "title": "2026-01-04 的大纲"
+            }
+          },
+          {
+            "id": "17c1bb3a63188315",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,13 +292,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49362584a32820bd",
+  "active": "1bf6a70229b870d1",
   "lastOpenFiles": [
-    "Daily/2025-12-26.md",
     "Daily/Syncthing.md",
+    "Daily/2025-12-26.md",
     "Daily/2026-01-04.md",
     "Excalidraw/Drawing 2026-01-04 14.10.59.excalidraw.md",
     "Daily/2025年12月25日 煤磨检查.md",
